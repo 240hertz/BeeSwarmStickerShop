@@ -5,32 +5,32 @@
   "data": [
     {
       "sticker": "Royal Jelly Sticker",
-      "stock": 7
+      "stock": 7,
       "id": 1
     },
     {
       "sticker": "Golden Bee Sticker",
-      "stock": 3
+      "stock": 3,
       "id": 2
     },
     {
       "sticker": "Crystal Bee Sticker",
-      "stock": 5
+      "stock": 5,
       "id": 3
     },
     {
       "sticker": "Mossy Bee Sticker",
-      "stock": 9
+      "stock": 9,
       "id": 4
     },
     {
       "sticker": "Blue Bee Sticker",
-      "stock": 4
+      "stock": 4,
       "id": 5
     },
     {
       "sticker": "Honey Pot Sticker",
-      "stock": 8
+      "stock": 8,
       "id": 6
     }
   ]
